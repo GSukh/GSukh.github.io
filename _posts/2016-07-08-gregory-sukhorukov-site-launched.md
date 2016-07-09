@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Gregory Sukhorukov"
+title: "First steps"
 date: 2016-07-08
 ---
 
